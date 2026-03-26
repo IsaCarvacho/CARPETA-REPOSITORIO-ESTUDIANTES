@@ -15,7 +15,7 @@ ___
 #### Título nivel 4. 4 " "
 ##### Título nivel 5. 5 " "
 ###### Título nivel 6. 6 " "
-__Negrita__ Dos astericos al inicio y final o asteriscos
+__Negrita__ Dos guiones bajos al inicio y final o asteriscos
 
 _Cursiva_ Un guión bajo al inicio y final o asterisco 
 
@@ -73,8 +73,26 @@ Para escribir un emoji se usa :y el nombre del emoji, o sólo se pega
 
 🌲, 🐚, 🍤, 🪻, 💜.
 
-Para las menciones se usa el @ y el usuario para notificar a alguien.
+Para las menciones se usa el @ y el usuario para notificar a alguien.  
 
 @camilasepulvedab
 
+## Historia de la pogramación
 
+* Primera computadora del mundo, 1822, de Charles Babbage.  
+* Máquina analítica, 1834 - 1837, Charles Babbage.  
+* Telar de Jacquard, 1801, Joseph Marie Jacquard. Tarjetas perforadas para lograr diseños y dibujos complejos automatizados para hacer telares.  
+* A partir de telares se crea el sistema/idea para programar computadores.  
+* Ada Lovelace, primera programadora. Inventó conceptualmente el primer lenguaje de programación, a partir de las tarjetas perforadas con Babbage.  
+* Máquina de Turing. Experimento mental, máquina teórica. Sistema de tarjetas con serie de números que da órdenes de que hacer al programa/computador.  
+* Avances para crear arte a través de computadores empezó en 1960.  
+* Originalmente la programación fue creada para las guerras.  
+* Cybernetic serendipity, exposición en 1968. Reunía todo tipo de artistas que trabajaban con computadores y programación para crear arte.  
+* Arte y cibernética, Jorge Glusber, 1969.  
+* John y James Whitney. Pioneros en Computer Graphis Animation. Diseño paramétrico y movimiento armónico.  
+* Sketchpad, Ivan Sutherland, 1963. Lápiz óptico.  
+* Douglas Engerlbart, 1968. Concepto de Bitmapping.  
+* Software libre nace en 1983, se democratiza. Libertad 0 (Uso), Libertad 1 (Estudio), Libertad 2 (Distribución) y Libertad 4 (Mejora).  
+* Free software y open source.  
+* Design by numbers, 1999, __John Maeda__. Programación simplificada para enseñar a diseñadores visuales a programar.  
+* p5.js: Creado por Lauren Mccarty.
