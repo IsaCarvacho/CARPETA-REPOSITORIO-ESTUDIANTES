@@ -96,3 +96,20 @@ Para las menciones se usa el @ y el usuario para notificar a alguien.
 * Free software y open source.  
 * Design by numbers, 1999, __John Maeda__. Programación simplificada para enseñar a diseñadores visuales a programar.  
 * p5.js: Creado por Lauren Mccarty.
+
+## Clase 27/03  
+
+Algoritmo: Secuencia de instrucciones paso a paso, lógicas, definidas, ordenadas y finitas. Precisión, orden, finitud, definición.  
+
+Estructura  
+* Input (Entrada). La información necesaria para empezar.  
+* Proceso  
+* Output (Salida)  
+
+__Diagrama de flujo__  
+* Representación gráfica de un algoritmo o de los pasos de un proceso. Herramienta de planificación para visualizar la lógica de un programa antes de programar.  
+* Se usan componentes Estandar (Simbología) para que cualquier programador pueda realizarlo.  
+
+Existen entre 700 y 900 lenguajes de programación. Si se incluyen lenguajes antiguos se supera los 8.000, incluso 9.000.  
+
+p5.js funciona como una biblioteca de JavaScript. Es como usar JavaScript pero con un lenguaje más amigable. 
