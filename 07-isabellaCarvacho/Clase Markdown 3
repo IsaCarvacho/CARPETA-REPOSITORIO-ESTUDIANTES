@@ -113,3 +113,6 @@ __Diagrama de flujo__
 Existen entre 700 y 900 lenguajes de programación. Si se incluyen lenguajes antiguos se supera los 8.000, incluso 9.000.  
 
 p5.js funciona como una biblioteca de JavaScript. Es como usar JavaScript pero con un lenguaje más amigable. 
+
+__Dibujar en p5js__  
+Funciona con sistema de coordendas x,y. Valor 0,0 esta en la esquina superior izquierda.  
