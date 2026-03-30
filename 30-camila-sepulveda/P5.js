@@ -139,6 +139,10 @@ square,project. strokeCap(cap);.
 alto del circulo que contiene este arco. **Star** y **stop** es donde comienza y termina el angulo de este arco. 
 
 **arc(x,y,h,start,stop)**
+
+  se mueve al sentido del reloj( eje x positivo) 
+
+  !activar modo angulos en el SETUP(); para que sea mas facil los angulos: angleMode(DEGREES);                                 
                                   
   
   
