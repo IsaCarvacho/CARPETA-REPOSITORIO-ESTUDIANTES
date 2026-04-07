@@ -35,5 +35,13 @@ Otra dificultad presente fue el tener que contar cuadro por cuadro del encargo 0
 poder tener la distancia x,y. A pesar de eso, continue contando de la misma manera los cuadrados, prefería demorarme más cotando y asegurar de que mis 
 calculos fueran correctos. 
 
-La ultima dificultad que se me presentó, es el no saber manejarme muy bien con los 
+La ultima dificultad que se me presentó, es el no saber manejarme muy bien con los arc, a pesar de que entendiese que conllevaba cada punto, el resultado 
+final no tenia concordancia con lo que estaba buscando, hasta que me di cuenta que el centro del arc no era el centro del arco mismo, si no el centro del
+circulo completo y en ese momento lo pude solucionar. 
+
+### Resultado 
+
+Con sinceridad quede muy satisfecha y contenta con mi resultado en **p5.js**, ya que en un comienzo no entendia nada y estaba con un cierto temor, pero una 
+vez ya entendi la logicá de cada termino, fue todo mas rapido, productivo y para ser la primera vez conociendo una herramienta de estas caracteristicas, 
+fue un gran desafío y un satisfactorio resultado final. 
   
