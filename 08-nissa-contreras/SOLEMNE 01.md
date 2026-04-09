@@ -12,6 +12,7 @@ Considero que lo más complejo y lo que más tiempo me tomó fue encontrar las c
 
 En general, disfruté mucho este trabajo, ya que sentí que aprendí algo nuevo y, además, fue una buena y entretenida experiencia.
 
+___
 
 ## **Dibujo físico**  
 
