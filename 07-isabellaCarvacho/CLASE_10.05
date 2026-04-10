@@ -1,0 +1,26 @@
+## Intro al movimiento
+
+Posición mouse x e y. 
+ellipse(mouseX, mouseY, w, h)
+
+Background es distinto si esta en setup o en draw. Si quiero que mi figura deje una estela, se deja en setup, si quiero un dibujo limpio se deja en draw. 
+
+Podemos crear nuestras propias variables
+1. Declarar variable: "let" x acción. Primeras letras en minuscula, cambio de palabra con letra inicial mayuscula. SIEMPRE arriba de todo, arriba de setup y draw. Ej: let circuloMorado=;
+Inicializa tu variable: Darle un valor a la variable. Ej:let circuloMorado=0;
+Usa tu variable: Se re-escribe la variable en draw, y se le da posición x, w y h. 
+Ej: background(220);
+  circuloMorado = circuloMorado+1/4;
+  
+  background(75, 88, 173);
+  noStroke();
+  fill(75, 173, 84);
+  ellipse(circuloMorado,200,50,50);
+
+__Javascript Objects__
+Organizar nuestro código. Agrupar variables dentro de una variable. Estructura de datos que permite agrupar valores relacionados bajo un mismo nombre. En lugar de tener muchas variables sueltas, los objetos funcionan como un "contenedor", que organiza la información mediante pares de clave y valor.
+Luego se accede a la info mediante notación de punto
+
+__Funcion Random__
+Devolver un numero aleatorio dentro de un rango que tu definas
+Si pongo random(100) da un numero entre 0 y 100
