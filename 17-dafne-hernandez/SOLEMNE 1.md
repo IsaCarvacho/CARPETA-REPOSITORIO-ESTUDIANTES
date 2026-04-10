@@ -99,7 +99,8 @@ function draw() {
 
  ### Trabajo final en p5.js  
  
-<img width="491" height="498" alt="image" src="https://github.com/user-attachments/assets/8d9fbc3a-3739-4cbb-826b-77c59c7b86e8" /> 
+ <img width="1000" height="1004" alt="image" src="https://github.com/user-attachments/assets/cae752d9-09ed-4b4b-a956-6fc747c2a017" />
+
 
 ### Versión en cuadricula de 32x32  
 
