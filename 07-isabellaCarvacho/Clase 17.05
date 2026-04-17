@@ -1,0 +1,7 @@
+## Clase 17.05
+
+Radial: Medida geometria. Perimetro afuera mide lo mismo que el radio que los circusnscribe. Radio coincide con perimetro. (Metodo que no usa el angleMode)
+angleMode. Siempre el cero parte en las "3 de la tarde". 
+Por defecto el programa usa RADIANES para medir ángulos. angleMode(RADIANES)
+ROTACIÓN, rotate(); --> Los puntos siempre van a rotar en base del punto 0°. Se recomienda empezar con mi figura en el punto 0,0, y luego aplicar rotate o translate.
+push(); y pop(); --> Los códigos de adentro no afectan al resto de los otros códigos
