@@ -5,3 +5,14 @@ angleMode. Siempre el cero parte en las "3 de la tarde".
 Por defecto el programa usa RADIANES para medir ángulos. angleMode(RADIANES)
 ROTACIÓN, rotate(); --> Los puntos siempre van a rotar en base del punto 0°. Se recomienda empezar con mi figura en el punto 0,0, y luego aplicar rotate o translate.
 push(); y pop(); --> Los códigos de adentro no afectan al resto de los otros códigos
+
+Condicionales
+Expresión booleana: Cualquier dato que al evaluarlo arroja dos resultados posibles, true o false. 
+Se necesitan los operandos (o valores), operadores de comparación y los operadores lógicos. 
+Operandos (o valores) --> Datos básicos que se evaluan. Pueden ser variables como:
+- Variables (x, y, o mouseX, mouseY, etc)
+- Constantes o literales 
+
+###IF - ELSE IF - ELSE###
+if --> Toma una condición -expresada como un booleando- y ejecuta una pieza de código contenida dentro de las llaves { }
+if (condición booleana){ejecuta este código si es true}
