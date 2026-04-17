@@ -18,3 +18,11 @@ push(); y pop();
 son funciones para que se genere una capsula, es para que los movimientos no interfieran en otras figuras, donde no se desean. 
 
 si un objeto gire al sentido contrario se pone un menos 
+
+
+# Escala= scale();
+
+ajusta la escala del sistema de coordenadas actual al factor especifico 
+
+scale(x,y);
+scale(2,2);
