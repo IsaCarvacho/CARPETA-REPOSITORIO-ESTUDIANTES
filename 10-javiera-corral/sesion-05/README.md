@@ -3,11 +3,11 @@
 Forks:copia personal del repositorio, crear uno para poder editar bitacora o tareaas sin alterar la rama principal y luego hacer request para que lo actualice la profe o asisstente.
 *siempre hacer sink para actualizar el fork 
 
-clase de hoy: variables 
+clase de hoy: VARIABLES 
 -
 como hacer movimeinto en p5 (variables)
 
-POSICIÓN DEL MOUS
+POSICIÓN DEL MOUSE
 -
 Sintaxis (mouseX, mouseY): Variables de sistema numérico que determinan la posición del mouse en las coordenadas X e Y.
 
