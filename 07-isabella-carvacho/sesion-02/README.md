@@ -1,4 +1,4 @@
-# Sesión 03 - 27/03  
+# Sesión 02 - 27/03  
 
 ## Markdown  
 Markdown es un lenguaje de marcado ligero. Es una manera de escribir un texto con un formato, usando caracteres comunes del teclado.  
